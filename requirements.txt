@@ -1,4 +1,4 @@
 discord.py
-Python 3.6
+Python 3.6.4
 xkcd
 imgurpython
