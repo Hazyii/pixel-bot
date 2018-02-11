@@ -1,0 +1,4 @@
+discord.py
+Python 3.6
+xkcd
+imgurpython
